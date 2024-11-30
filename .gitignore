@@ -1,0 +1,11 @@
+# Frontend ignores
+frontend/node_modules/
+frontend/build/
+
+# Backend ignores
+backend/target/
+backend/.idea/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
